@@ -1,5 +1,5 @@
 # Coffee Data Analysis
-![Coffee Cup]("C:\Users\HP\Downloads\download.jpeg")
+![download](https://github.com/user-attachments/assets/dffc6688-3cf9-4570-962e-4bd50cb95a12)
 
 
 ## Project Overview
